@@ -10,7 +10,7 @@ We can keep in touch on [Twitter](https://twitter.com/LincolnUehara) or [Linkedi
 
 * **2016-2017**: My bachelor thesis was about developing a ECG with Bluetooth connection using a [TI's Tiva board](https://www.ti.com/tool/EK-TM4C123GXL). You can read it in [Portuguese](https://repositorio.unesp.br/bitstream/handle/11449/155292/000881439.pdf) or [English](https://eventos.ufabc.edu.br/siimsps/files/id165.pdf).
 
-* **2017-now**: I published some technical articles on Brazilian website called [Embarcados](https://www.embarcados.com.br/), you can see my list [here](https://www.embarcados.com.br/autor/evertonuehara/).
+* **2017-now**: I published some technical articles on Brazilian website called [Embarcados](https://www.embarcados.com.br/), you can see my list [here](https://www.embarcados.com.br/author/evertonuehara/).
 
 * **2018**: A [Story Line Game](https://github.com/LincolnUehara/storylineGame) for a presentation on Campus Party 2017. It was a workshop to teach git commands through storytelling.
 
