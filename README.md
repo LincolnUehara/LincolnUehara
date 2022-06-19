@@ -1,4 +1,4 @@
-<img src="https://github.com/LincolnUehara/LincolnUehara/blob/main/img/GitHubProfile.png" align="right" width="300">
+<img src="/img/GitHubProfile.png" align="right" width="300">
 
 ### Hi! My name is Lincoln Uehara ^.~
 
